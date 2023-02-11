@@ -69,7 +69,7 @@ https://user-images.githubusercontent.com/65198559/218250206-f70d7f5b-a7a0-4c50-
 
 ### Notes
 
-By default, when the mobile application is running on the first it will either if the database tables named `conference_info`, `specialize_area` and `login` already exists. If some or non of the database table is exists, it will automatically create the database tables in SQLite.
+By default, when the mobile application is running on the first time it will check either if the database tables named `conference_info`, `specialize_area` and `login` already exists. If some or non of the database table is exists, it will automatically create the database tables in SQLite.
 
 These tables will be created with the following command;
 
