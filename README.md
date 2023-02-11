@@ -64,4 +64,4 @@ https://user-images.githubusercontent.com/65198559/218250206-f70d7f5b-a7a0-4c50-
 
 ## User Interface
 
- <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/login.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/pages.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/events.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/participate.gif" width=250> <img 
+ <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/login.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/events.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/participate.gif" width=250> <img 
