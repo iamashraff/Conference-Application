@@ -1,4 +1,4 @@
-# Conference Application
+# EZConference Application
 
 EZConference is a conference application that allow users to register to the conference through the mobile application. This project was developed for the Mobile and Ubiquitous Computing - ISB 26603 course at the Universiti Kuala Lumpur.
 
