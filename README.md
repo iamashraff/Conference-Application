@@ -30,8 +30,9 @@ Database
 - Need to have three (3) tables which are `conference_info`, `specialize_area` and `login`.
 
 ## Database
-![enter image description here](https://raw.githubusercontent.com/iamashraff/Conference-Application/main/img/database.jpg)
+
+<img src="https://raw.githubusercontent.com/iamashraff/Conference-Application/main/img/database2.jpg" width=700>
 
 ## Application Flow
 
-<img src="https://raw.githubusercontent.com/iamashraff/Conference-Application/main/img/flowchart2.jpg" width=350>
+<img src="https://raw.githubusercontent.com/iamashraff/Conference-Application/main/img/flowchart2.jpg" width=300>
