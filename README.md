@@ -1,3 +1,4 @@
+
 # Conference Application
 
 EZConference is a conference application that allow users to register to the conference through the mobile application. This project was developed for the Mobile and Ubiquitous Computing - ISB 26603 course at the Universiti Kuala Lumpur.
@@ -61,3 +62,6 @@ Database
 
 https://user-images.githubusercontent.com/65198559/218250206-f70d7f5b-a7a0-4c50-9425-9257b8f4a91a.mp4?width=200&height=200
 
+## User Interface
+
+<img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/main.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/register.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/login.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/pages.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/events.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/participate.gif" width=250> <img src="https://raw.githubusercontent.com/iamashraff/EZConference-Application/main/img/editdelete.gif" width=250>
