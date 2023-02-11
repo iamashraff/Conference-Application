@@ -1,6 +1,23 @@
-# EZConference Application
+# Conference Application
 
 EZConference is a conference application that allow users to register to the conference through the mobile application. This project was developed for the Mobile and Ubiquitous Computing - ISB 26603 course at the Universiti Kuala Lumpur.
+
+## License
+
+The source code has been published on GitHub Repository under  _MIT License_.  
+Please visit  [`LICENSE`](https://github.com/iamashraff/EZConference-Application/blob/main/LICENSE)  file to read the details about the license.
+
+## About the project
+
+Languages :
+- Dart
+
+Framework:
+- Flutter
+
+Database:
+- SQLite
+
 
 ## Project Requirements
 
@@ -28,6 +45,10 @@ User Account
 
 Database
 - Need to have three (3) tables which are `conference_info`, `specialize_area` and `login`.
+
+
+
+
 
 ## Database
 
