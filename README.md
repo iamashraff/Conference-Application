@@ -1,16 +1,37 @@
-# conference_app
+# Conference Application
 
-A new Flutter project.
+EZConference is a conference application that allow users to register to the conference through the mobile application. This project was developed for the Mobile and Ubiquitous Computing - ISB 26603 course at the Universiti Kuala Lumpur.
 
-## Getting Started
+## Project Requirements
 
-This project is a starting point for a Flutter application.
+List of specialization available to register :
+- Artificial Intelligence
+- Data Mining
+- Computer Security
+- Internet of Things
+- Software Engineering
 
-A few resources to get you started if this is your first Flutter project:
+Basic information required for registration purposes:
+- Name
+- Email
+- Phone number
+- Role (Participant, Presenter, Reviewer, Judges)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Validation
+- User are not allowed to leave input form empty.
+- If the form is empty, an alert message will be shown.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User Account
+- A new user need to register their username and password.
+- Existing user able to login with their existing login credentials.
+- Existing user able to view, edit and/or delete their conference registration details.
+
+Database
+- Need to have three (3) tables which are `conference_info`, `specialize_area` and `login`.
+
+## Database
+![enter image description here](https://raw.githubusercontent.com/iamashraff/Conference-Application/main/img/database.jpg)
+
+## Application Flow
+
+<img src="https://raw.githubusercontent.com/iamashraff/Conference-Application/main/img/flowchart2.jpg" width=350>
