@@ -1,6 +1,6 @@
 
 
-# Conference Application
+# EZConference Application
 
 EZConference is a conference application that allow users to register to the conference through the mobile application. This project was developed for the Mobile and Ubiquitous Computing - ISB 26603 course at the Universiti Kuala Lumpur.
 
@@ -8,6 +8,14 @@ EZConference is a conference application that allow users to register to the con
 
 The source code has been published on GitHub Repository under  _MIT License_.  
 Please visit  [`LICENSE`](https://github.com/iamashraff/EZConference-Application/blob/main/LICENSE)  file to read the details about the license.
+
+## How to use
+1. Fork and clone this repository.
+2. Ensure to install [Flutter](https://docs.flutter.dev/get-started/install), [Android Studio](https://developer.android.com/studio) & [Visual Studio Code (VS Code)](https://code.visualstudio.com/)
+3. Open Android Studio, create and run virtual device of `Android 10` or latest.
+4. In VS Code, open terminal and run `flutter upgrade` command to upgrade the latest SDK.
+5. Build and run the project using `flutter run` command to run the project in the virtual device.
+6. Voilà ! Now it works !
 
 ## About the project
 
@@ -19,6 +27,7 @@ Framework:
 
 Database:
 - SQLite
+
 
 
 ## Project Requirements
